@@ -1,0 +1,11 @@
+
+# Unreal generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.DS_Store
+*.sln
+*.xcodeproj
+*.xcworkspace
